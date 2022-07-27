@@ -1,5 +1,3 @@
-import streamlit.components.v1 as components
-
 from pollination_streamlit.selectors import get_api_client
 
 from pollination_streamlit_io import (
